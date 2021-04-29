@@ -37,6 +37,8 @@ douhu为项目名称（ FLASK_APP=douhu）
 
 如 [ greyli /sayhello ](https://github.com/greyli/sayhello)
 
+[anidea/flask-demo-login](https://gitee.com/anidea/flask-demo-login)
+
 ## 蓝本
 
 如 [greyli / bluelog](https://github.com/greyli/bluelog)
